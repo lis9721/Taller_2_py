@@ -47,6 +47,7 @@ Taller_2_py/
 └─ seccion6/                    # MINI-TALLER INTEGRADOR
    └─ biblioteca.py
 
+```
 
 ---
 
