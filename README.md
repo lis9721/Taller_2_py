@@ -6,7 +6,8 @@ El taller está organizado por **secciones**, donde cada carpeta contiene ejerci
 
 ---
 
-## 🗂️ Estructura del Proyecto (Encarpetado)
+## 🗂️ Estructura del Proyecto (Encarpetado)  
+
 
 # 📚 Taller 2 – Programación en Python
 
@@ -19,28 +20,50 @@ El taller está organizado por **secciones**, donde cada carpeta contiene ejerci
 ## 🗂️ Estructura del Proyecto (Encarpetado)
 
 
+# Taller 2 – Programación en Python  
+
+
+
+
+
+---
+
 Taller_2_py/
 ├─ README.md                    
 ├─ requirements.txt             # Enunciados de los ejercicios
-├─ seccion1/                    # MANEJO DE VARIABLES Y ENTRADA DE DATOS
-│  ├─ 1.1.py
-│  ├─ 1.2.py
-│  └─ 1.3.py
-├─ seccion2/                    # IMPLEMENTACIÓN DE CONDICIONALES
-│  ├─ 2.1.py
-│  └─ 2.2.py
-├─ seccion3/                    # USO DE CICLOS FOR Y WHILE
-│  ├─ 3.1.py
-│  └─ 3.2.py
-├─ seccion4/                    # GESTIÓN DE LISTAS Y DICCIONARIOS
-│  ├─ 4.1.py
-│  └─ 4.2.py
-├─ seccion5/                    # CREACIÓN Y USO DE FUNCIONES
-│  ├─ 5.1.py
-│  └─ 5.2.py
+├─ taller 2/                      # Paquete principal
+│  ├─ seccion1/                 # MANEJO DE VARIABLES Y ENTRADA DE DATOS
+│  │  ├─ 1.1.py
+│  │  ├─ 1.2.py
+│  │  ├─ 1.3.py
+│  │  ├─ 1.4.py
+│  │  └─ 1.5.py
+│  ├─ seccion2/                 # IMPLEMENTACIÓN DE CONDICIONALES
+│  │  ├─ 2.1.py
+│  │  ├─ 2.2.py
+│  │  ├─ 2.3.py
+│  │  ├─ 2.4.py
+│  │  └─ 2.5.py
+│  ├─ seccion3/                 # USO DE CICLOS FOR Y WHILE
+│  │  ├─ 3.1.py
+│  │  ├─ 3.2.py
+│  │  ├─ 3.3.py
+│  │  ├─ 3.4.py
+│  │  └─ 3.5.py
+│  ├─ seccion4/                 # GESTIÓN DE LISTAS Y DICCIONARIOS
+│  │  ├─ 4.1.py
+│  │  ├─ 4.2.py
+│  │  ├─ 4.3.py
+│  │  ├─ 4.4.py
+│  │  └─ 4.5.py
+│  └─ seccion5/                 # CREACIÓN Y USO DE FUNCIONES
+│     ├─ 5.1.py
+│     ├─ 5.2.py
+│     ├─ 5.3.py
+│     ├─ 5.4.py
+│     └─ 5.5.py
 └─ seccion6/                    # MINI-TALLER INTEGRADOR
    └─ biblioteca.py
-
 
 ---
 
