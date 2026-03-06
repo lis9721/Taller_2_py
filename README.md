@@ -1,13 +1,3 @@
-# 📚 Taller 2 – Programación en Python
-
-Este repositorio contiene el **Taller 2 de programación en Python**, donde se desarrollan diferentes ejercicios enfocados en fortalecer la lógica de programación, el uso de estructuras de control, funciones y manejo de estructuras de datos.
-
-El taller está organizado por **secciones**, donde cada carpeta contiene ejercicios relacionados con un tema específico del lenguaje Python.
-
----
-
-## 🗂️ Estructura del Proyecto (Encarpetado)  
-
 
 # 📚 Taller 2 – Programación en Python
 
@@ -19,19 +9,11 @@ El taller está organizado por **secciones**, donde cada carpeta contiene ejerci
 
 ## 🗂️ Estructura del Proyecto (Encarpetado)
 
-
-# Taller 2 – Programación en Python  
-
-
-
-
-
----
-
+```text
 Taller_2_py/
 ├─ README.md                    
 ├─ requirements.txt             # Enunciados de los ejercicios
-├─ taller 2/                      # Paquete principal
+├─ taller 2/                    # Paquete principal
 │  ├─ seccion1/                 # MANEJO DE VARIABLES Y ENTRADA DE DATOS
 │  │  ├─ 1.1.py
 │  │  ├─ 1.2.py
@@ -64,6 +46,7 @@ Taller_2_py/
 │     └─ 5.5.py
 └─ seccion6/                    # MINI-TALLER INTEGRADOR
    └─ biblioteca.py
+
 
 ---
 
